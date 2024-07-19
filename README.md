@@ -8,7 +8,9 @@ Brainwave created with React.js and Tailwind CSS, showcases the principles of mo
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwindcss logo"  />
+ <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" height="30" alt="nextjs logo"  />
 
 Brainwave is built using React, Vite, and Tailwind CSS to ensure optimal performance and a modern design.
 
@@ -16,7 +18,7 @@ Brainwave is built using React, Vite, and Tailwind CSS to ensure optimal perform
 
 ## Deployed on
 
-[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+ <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="nextjs logo"  />
 
 To ensure top-tier performance and reliability, Brainwave is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.
 
