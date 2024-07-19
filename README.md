@@ -1,4 +1,4 @@
-# Brainwave
+## Brainwave
 
 ---
 
@@ -6,7 +6,7 @@ Brainwave created with React.js and Tailwind CSS, showcases the principles of mo
 
 ---
 
-### Powered by
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
@@ -14,7 +14,7 @@ Brainwave is built using React, Vite, and Tailwind CSS to ensure optimal perform
 
 ---
 
-### Deployed on
+## Deployed on
 
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
