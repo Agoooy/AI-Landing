@@ -18,7 +18,7 @@ Brainwave is built using React, Vite, and Tailwind CSS to ensure optimal perform
 
 [![My Skills](https://skillicons.dev/icons?i=vercel&theme=light)](https://skillicons.dev)
 
-To ensure top-tier performance and reliability, ArsVirtua is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.
+To ensure top-tier performance and reliability, Brainwave is deployed on Vercel, a powerful platform known for its seamless integration with Next.js.
 
 ---
 
