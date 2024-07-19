@@ -25,5 +25,6 @@ To ensure top-tier performance and reliability, Brainwave is deployed on Vercel,
 <div align="center">
     <img src="https://forthebadge.com/images/badges/license-mit.svg" />
     <img src="https://forthebadge.com/images/badges/built-with-love.svg"
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"
 
 </div>
