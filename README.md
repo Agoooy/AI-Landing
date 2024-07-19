@@ -10,7 +10,7 @@ Brainwave created with React.js and Tailwind CSS, showcases the principles of mo
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
-Brainaave is built using React, Vite, and Tailwind CSS to ensure optimal performance and a modern design.
+Brainwave is built using React, Vite, and Tailwind CSS to ensure optimal performance and a modern design.
 
 ---
 
