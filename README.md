@@ -10,8 +10,7 @@ A contemporary UI/UX website, created with React.js and Tailwind CSS, showcases 
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
-ArsVirtua is built using the Next.js framework, which ensures a fast, reliable, and scalable platform.
-
+Brainaave is built using React, Vite, and Tailwind CSS to ensure optimal performance and a modern design.
 
 ---
 
