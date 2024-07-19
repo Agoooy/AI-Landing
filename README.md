@@ -1,4 +1,4 @@
-### ArsVirtua: Your Gateway to The Digital Art World
+### BrainWave
 
 ---
 
