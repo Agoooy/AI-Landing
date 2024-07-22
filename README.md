@@ -1,40 +1,36 @@
+<p align="center">
+<h1>ArsVirtua</h2>
+</p>
+
+  **Brainwave**, created with React.js and TailwindCSS, showcases the principles of modern UI/UX design. Its elegant design, smooth animations, and excellent user experience establish a high benchmark, making it a valuable reference or inspiration for future modern applications or websites.
+  <br/>
+  <br/> And don't forget to check out the [demo](https://ars-virtua.vercel.app) preview.
+
 ---
+### Tech stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<div align="center">
+### Deployed on
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h1><strong>Brainwave</strong></h1>
-
-<hr>
-
-<p><em>Brainwave, created with React.js and Tailwind CSS, showcases the principles of modern UI/UX design. Its elegant design, smooth animations, and excellent user experience establish a high benchmark, making it a valuable reference or inspiration for future modern applications or websites.</em></p>
-
-<hr>
-
-<h2><strong>Tech Stack</strong></h2>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite, Tailwind CSS" />
+---
+### Connect with me
+  You can reach me through My Gmail, LinkedIn, X, or Instagram account
+  
+ <a
+ href="mailto:yogaardikaaa123@gmail.com?subject=Hi%20Yoga,%20I'd%20like%20to%20hire%20you">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo" />
 </a>
-
-<p><em>Brainwave is built using React, Vite, and Tailwind CSS to ensure optimal performance and a modern design.</em></p>
-
-<hr>
-
-<h2><strong>Deployed on</strong></h2>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+<a href="https://www.linkedin.com/in/agooy/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo" />
 </a>
-
-<p><em>To ensure top-tier performance and reliability, Brainwave is deployed on Vercel, a powerful platform known for its seamless integration with modern frameworks.</em></p>
-
-<hr>
-
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript" />
-</div>
-
-</div>
-
+<a href="https://twitter.com/mamahakutakut">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="27" alt="twitter logo" />
+</a>
+<a href="https://instagram.com/yogardkaa">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo" />
+</a>
 ---
