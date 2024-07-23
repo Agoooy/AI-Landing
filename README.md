@@ -1,5 +1,5 @@
 <p align="center">
-<h1>ArsVirtua</h2>
+<h1>Brainwave</h1>
 </p>
 
   **Brainwave**, created with React.js and TailwindCSS, showcases the principles of modern UI/UX design. Its elegant design, smooth animations, and excellent user experience establish a high benchmark, making it a valuable reference or inspiration for future modern applications or websites.
